@@ -1,4 +1,5 @@
-### Hi there 👋
+### - 🔭 I’m currently working on ... AI Youth Challenge
+- 🌱 I’m currently learning ... AWS Web Provisioning and Certification
 
 <!--
 **rlawoals2590/rlawoals2590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
