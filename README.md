@@ -1,4 +1,5 @@
-### - 🔭 I’m currently working on ... AI Youth Challenge
+### Hi there 👋
+- 🔭 I’m currently working on ... AI Youth Challenge
 - 🌱 I’m currently learning ... AWS Web Provisioning and Certification
 
 <!--
