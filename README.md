@@ -7,9 +7,9 @@
 
 # skill🛠
 ### Languages
-<span><img src="https://img.shields.io/badge/C-3776AB?logo=Python&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/C-3776AB?logo=C&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Shell-3178C6?logo=TypeScript&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Shell-3178C6?logo=Shell&logoColor=white"></span>
 
 ### TOOLS
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
