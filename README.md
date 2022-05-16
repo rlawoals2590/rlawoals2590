@@ -1,9 +1,9 @@
 # My name's KimJaeMin
 - 🔭 I’m currently working on ... AI Youth Challenge
 - 🌱 I’m currently learning ... AWS Web Provisioning and Certification
-- 
-![rlawoals2590's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawoals2590&show_icons=true&theme=radical)
-[![rlawoals2590's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawoals2590ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rlawoals2590)
+ 
+![rlawoals2590's github stats](https://github-readme-stats.vercel.app/api?username=rlawoals2590&show_icons=true)
+[![rlawoals2590's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawoals2590&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rlawoals2590)
 
 # skill🛠
 ### Languages
