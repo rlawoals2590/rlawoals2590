@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name's 김재민
 - 🔭 I’m currently working on ... AI Youth Challenge
 - 🌱 I’m currently learning ... AWS Web Provisioning and Certification
 
