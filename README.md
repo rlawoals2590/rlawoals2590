@@ -16,11 +16,11 @@
 
 <span><img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/node.js-000000?logo=node.js&logoColor=white"></span>
 
 ### Hosting/IaaS
 
 <span><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=Amazon-AWS&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white"></span>
 
 ## Social
 
