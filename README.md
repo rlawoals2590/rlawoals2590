@@ -24,7 +24,7 @@
 
 ## Social
 
-<span><a href="https://www.instagram.com/specialist_sj/"><img src="https://img.shields.io/badge/specialist_sj-E4405F?logo=Instagram&logoColor=white"></a></span>
+<span><a href="https://www.instagram.com/jaemin_820/"><img src="https://img.shields.io/badge/specialist_sj-E4405F?logo=Instagram&logoColor=white"></a></span>
 <span><a href="https://blog.naver.com/bi0416"><img src="https://img.shields.io/badge/Naver Blog-03C75A?logo=Naver&logoColor=white"></a></span>
 
 ### TOOLS
@@ -32,5 +32,5 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-# BLOG
+### BLOG
 https://smcjungbumc.tistory.com/
