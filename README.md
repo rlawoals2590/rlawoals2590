@@ -10,7 +10,7 @@
 
 <span><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Shell script-3178C6?logo=Shell script&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Shellscript-3178C6?logo=Shellscript&logoColor=white"></span>
 
 ### Web Framework
 
