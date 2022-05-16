@@ -24,8 +24,7 @@
 
 ## Social
 
-<span><a href="https://www.instagram.com/jaemin_820/"><img src="https://img.shields.io/badge/specialist_sj-E4405F?logo=Instagram&logoColor=white"></a></span>
-<span><a href="https://blog.naver.com/bi0416"><img src="https://img.shields.io/badge/Naver Blog-03C75A?logo=Naver&logoColor=white"></a></span>
+<span><a href="https://www.instagram.com/jaemin_820/"><img src="https://img.shields.io/badge/jaemin_820-E4405F?logo=Instagram&logoColor=white"></a></span>
 
 ### TOOLS
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
@@ -33,4 +32,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 ### BLOG
-https://smcjungbumc.tistory.com/
+https://smcjaemin0820.tistory.com/
