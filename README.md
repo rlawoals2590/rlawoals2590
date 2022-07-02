@@ -1,5 +1,5 @@
 # My name's KimJaeMin
-- 🔭 I’m currently working on ... AI Youth Challenge
+- 🔭 I’m currently working on ... None
 - 🌱 I’m currently learning ... AWS Web Provisioning and Certification
  
 ![rlawoals2590's github stats](https://github-readme-stats.vercel.app/api?username=rlawoals2590&show_icons=true&theme=dark)
