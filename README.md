@@ -4,7 +4,7 @@
  
 ![rlawoals2590's github stats](https://github-readme-stats.vercel.app/api?username=rlawoals2590&show_icons=true&theme=dark)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rlawoals2590&theme=dark)]
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rlawoals2590&theme=dark)
 
 # skill🛠
 ### Languages
