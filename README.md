@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ... AWS Web Provisioning and Certification
  
 ![rlawoals2590's github stats](https://github-readme-stats.vercel.app/api?username=rlawoals2590&show_icons=true&theme=dark)
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=rlawoals2590&layout=compact&theme=dark)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rlawoals2590)](https://github.com/rlawoals2590/edit/main/README.md)
 
 # skill🛠
 ### Languages
