@@ -5,7 +5,7 @@
 
 ![rlawoals2590's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawoals2590&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawoals2590&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawoals2590&layout=compact&show_icons=true&theme=radical)
 
 
 # skill🛠
