@@ -44,5 +44,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawoals2590&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=rlawoals2590&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=rlawoals2590)
-
