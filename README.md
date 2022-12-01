@@ -12,7 +12,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
 	<img src="https://img.shields.io/badge/Flask-6DB33F?style=flat&logo=Flask&logoColor=white" />
-	<img src="https://img.shields.io/badge/Node%20js-6DB33F?style=flat&logo=Nodejs&logoColor=white" />
+	<img src="https://img.shields.io/badge/NodeJs-6DB33F?style=flat&logo=NodeJs&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
