@@ -35,7 +35,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://yermi.tistory.com](https://smcjaemin0820.tistory.com/">
+	<a href="https://smcjaemin0820.tistory.com/">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 </div>
