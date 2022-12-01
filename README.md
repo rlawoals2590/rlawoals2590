@@ -36,7 +36,7 @@
 </div>
 <div align=center>
 	<a href="https://smcjaemin0820.tistory.com/">
-		<img src="https://img.shields.io/badge/tistory?style=flat&logo=tistory&logoColor=white" />
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 </div>
 <div align=center>
