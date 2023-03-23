@@ -40,10 +40,8 @@
 	</a>
 </div>
 
-<div align=center>
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawoals2590&show_icons=true&theme=tokyonight)<br>
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawoals2590&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawoals2590&show_icons=true&theme=tokyonight)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawoals2590&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
