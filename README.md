@@ -42,5 +42,6 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawoals2590&layout=compact">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawoals2590&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api?username=rlawoals2590&show_icons=true">
 
