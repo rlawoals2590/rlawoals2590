@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20JaeMin&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 <!-- <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JaeMin%20Github!&fontSize=90" />	
 </div>
