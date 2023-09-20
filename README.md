@@ -9,7 +9,7 @@ Hi, I am trying to become a DevOps Engineer😎
 
 
 ## 📚 Tech Stack 📚
-### :computer: Programming Language :computer:
+#### :computer: Programming Language :computer:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
@@ -18,7 +18,7 @@ Hi, I am trying to become a DevOps Engineer😎
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
 <br/>
 
-### :cd: Database :cd:
+#### :cd: Database :cd:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
