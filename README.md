@@ -39,10 +39,9 @@
 <div align=center>
 	<a href="https://smcjaemin0820.tistory.com/">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
+	</a><br>
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawoals2590&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawoals2590&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
