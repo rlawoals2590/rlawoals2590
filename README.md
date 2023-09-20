@@ -7,7 +7,7 @@ Hi, I am trying to become a DevOps Engineer😎
 <br/><br/>
 
 
-## 📚 Tech Stack 📚</h3>
+## 📚 Tech Stack 📚
 
 
 </div>
