@@ -4,7 +4,7 @@
 
  
 ## Introduction :raised_hands:
-Hi, I am trying to become a DevOps Engineer😎
+<strong>Hi, I am trying to become a DevOps Engineer😎</strong>
 <br/><br/><br/>
 
 
