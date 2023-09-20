@@ -7,8 +7,8 @@ Hi, I am trying to become a DevOps Engineer😎
 <br/><br/>
 
 
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+<h3>📚 Tech Stack 📚</h3>
+<p>✨ Platforms & Languages ✨</p>
 
 </div>
 
