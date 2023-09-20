@@ -5,7 +5,7 @@
  
 ## Introduction :raised_hands:
 <h4>Hi, I am trying to become a DevOps Engineer😎</h4>
-<br/><br/><br/>
+<br/><br/>
 
 
 ## Tech Stack 📚
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
-<br/><br/><br/>
+<br/><br/>
 
 ## SNS & Portfolio 🎨
 <a href="https://smcjaemin0820.tistory.com/">
@@ -48,7 +48,7 @@
 <a href="https://www.instagram.com/kimjaemin_05/">
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
-<br/><br/><br/>
+<br/><br/>
 
 ## Problem Solving :muscle:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ni20586370)](https://solved.ac/ni20586370)<br/>
