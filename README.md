@@ -3,7 +3,7 @@
 <div align=center>
 	
 ## Introduction :raised_hands:
-Hi, I am trying to become a nice developer😎
+Hi, I am trying to become a DevOps Engineer😎
 <br/><br/>
 
  
