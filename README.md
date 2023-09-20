@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20JaeMin&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
+<div align=center>
 
+ 
 ## Introduction :raised_hands:
 Hi, I am trying to become a DevOps Engineer😎
 <br/><br/><br/>
@@ -14,12 +16,12 @@ Hi, I am trying to become a DevOps Engineer😎
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-	
 </div>
 <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+</div>
 
 
 
