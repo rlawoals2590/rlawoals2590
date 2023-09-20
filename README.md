@@ -45,6 +45,9 @@ Hi, I am trying to become a DevOps Engineer😎
 <a href="https://smcjaemin0820.tistory.com/">
 	<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/>
 </a>
+<a href="https://www.instagram.com/kimjaemin_05/">
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+</a>
 <br/><br/><br/>
 
 ## Problem Solving :muscle:
