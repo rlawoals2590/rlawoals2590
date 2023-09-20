@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
 <br/><br/>
 
+
 ## SNS & Portfolio 🎨
 <a href="https://smcjaemin0820.tistory.com/">
 	<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/>
@@ -50,14 +51,10 @@
 </a>
 <br/><br/>
 
+
 ## Problem Solving :muscle:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ni20586370)](https://solved.ac/ni20586370)<br/>
 </div>
-
-
-
-
-
 
 <!-- <div align=center>
 </div>
