@@ -7,10 +7,10 @@ Hi, I am trying to become a DevOps Engineer😎
 <br/><br/>
 
 
-## 📚 Tech Stack 📚:
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+## 📚 Tech Stack 📚
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 
