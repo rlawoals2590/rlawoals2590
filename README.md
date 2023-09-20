@@ -4,24 +4,24 @@
 Hi, I am trying to become a nice developer😎
 <br/><br/>
 
-<div align=center>
+<!-- <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-<!-- 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" /> -->
+ 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Node.js-339933&logo=node.js&logoColor=white">
 	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Flask-6DB33F?style=flat&logo=Flask&logoColor=white" />
 	<br>
-<!-- 	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoCo -->
+ 	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoCo
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon%20RDS-003545?style=flat&logo=AmazonRDS&logoColor=white" />
  	<img src="https://img.shields.io/badge/Amazon%20AWS?style=flat&logo=로고이름&logoColor=white"/>
 	
-<!-- 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" /> -->
+ 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 <br>
 <div align=center>
@@ -45,6 +45,7 @@ Hi, I am trying to become a nice developer😎
 	</a>
 </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawoals2590&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 
