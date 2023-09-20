@@ -6,6 +6,7 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
+	<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="52" height="52" /></div>
 <!-- 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Node.js-339933&logo=node.js&logoColor=white">
