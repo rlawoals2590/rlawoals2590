@@ -19,7 +19,7 @@ Hi, I am trying to become a DevOps Engineer😎
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
 <br/>
 
-### :cd: Database :cd:
+### Database :cd:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
@@ -27,13 +27,13 @@ Hi, I am trying to become a DevOps Engineer😎
 <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
 <br/>
 
-### :house_with_garden: Infra :house_with_garden:
+### Infra :house_with_garden:
 <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
 <br/>
 
-### :hammer: Tools used :hammer:
+### Tools used :hammer:
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Intellij%20IDEA-007ACC?style=flat&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
