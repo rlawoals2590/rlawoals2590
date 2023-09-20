@@ -33,7 +33,7 @@ Hi, I am trying to become a DevOps Engineer😎
 <br/>
 
 ### :hammer: Tools used :hammer:
-<img src="https://img.shields.io/badge/Visual%20Studio%20Cde-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Intellij%20IDEA-007ACC?style=flat&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/>
