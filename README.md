@@ -16,6 +16,7 @@ Hi, I am trying to become a DevOps Engineer😎
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
 <br/>
 
 ### :cd: Database :cd:
@@ -37,6 +38,7 @@ Hi, I am trying to become a DevOps Engineer😎
 <img src="https://img.shields.io/badge/Intellij%20IDEA-007ACC?style=flat&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
 <br/>
 
 </div>
