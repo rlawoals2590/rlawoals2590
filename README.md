@@ -26,7 +26,7 @@ Hi, I am trying to become a DevOps Engineer😎
 <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
 <br/>
 
-### :arrows_clockwise: Infra :arrows_clockwise:
+### :house_with_garden: Infra :house_with_garden:
 
 </div>
 
