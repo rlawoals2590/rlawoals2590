@@ -3,7 +3,9 @@
 <div align=left>
 
 ## Introduction :raised_hands:
-<h4>Hi, I am trying to become a DevOps Engineer😎</h4>
+<h4>Hi, I am trying to become a DevOps Engineer😎</h4><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlawoals2590&count_bg=%23DA1919&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/><br/>
 
 
