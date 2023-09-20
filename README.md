@@ -1,4 +1,5 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hello,%20world!&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Hello,%20world!%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
 <!-- <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JaeMin%20Github!&fontSize=90" />	
 </div>
