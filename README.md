@@ -57,5 +57,5 @@
 
 
 ## Problem Solving :muscle:
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ni20586370)](https://solved.ac/ni20586370)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ni20586370)](https://solved.ac/ni20586370)<br/>
 </div>
