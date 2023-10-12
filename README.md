@@ -50,6 +50,9 @@
 <a href="https://www.instagram.com/kimjaemin_05/">
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
+<a href="https://yielding-corn-fd2.notion.site/21fe57a0364b40919588a0ee2bc8ec42?pvs=4">
+	<img src="https://img.shields.io/badge/Portfolio-ffffff?style=badge&logo=notion&logoColor=black"/>
+</a>
 <br/><br/>
 
 
