@@ -6,6 +6,7 @@
 <h4>Hi, I am trying to become a DevOps Engineer😎</h4><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlawoals2590&count_bg=%23DA1919&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ni20586370)](https://solved.ac/ni20586370)<br/>
 <br/><br/>
 
 
@@ -54,8 +55,3 @@
 	<img src="https://img.shields.io/badge/Portfolio-ffffff?style=badge&logo=notion&logoColor=black"/>
 </a>
 <br/><br/>
-
-
-## Problem Solving :muscle:
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ni20586370)](https://solved.ac/ni20586370)<br/>
-</div>
