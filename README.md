@@ -9,49 +9,73 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ni20586370)](https://solved.ac/ni20586370)
 <br/><br/>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rlawoals2590&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rlawoals2590&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 ## Tech Stack 📚
 ### Programming Language :computer:
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
-<br/>
-
-### Database :cd:
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
 <br/>
 
 ### Infra :house_with_garden:
-<img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=dynamodb" height="30" alt="amazondynamodb logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=prometheus" height="30" alt="prometheus logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
 <br/>
 
 ### Tools used :hammer:
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intellij%20IDEA-007ACC?style=flat&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=vim" height="30" alt="vim logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipseide logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=atom" height="30" alt="atom logo"  />
 <br/><br/>
 
 
 ## SNS & Portfolio 🎨
-<a href="https://smcjaemin0820.tistory.com/" style="text-decoration:none;">
-	<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/kimjaemin_05/" style="text-decoration:none;">
-	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://yielding-corn-fd2.notion.site/21fe57a0364b40919588a0ee2bc8ec42?pvs=4" style="text-decoration:none;">
-	<img src="https://img.shields.io/badge/Portfolio-ffffff?style=badge&logo=notion&logoColor=black"/>
-</a>
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 <br/><br/>
