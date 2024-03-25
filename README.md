@@ -18,21 +18,13 @@
 ## Tech Stack 📚
 ### Programming Language :computer:
 <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
 <br/>
 
