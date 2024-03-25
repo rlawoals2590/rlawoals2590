@@ -5,14 +5,14 @@
 ## Introduction :raised_hands:
 <h4>Hi, I am trying to become a DevOps Engineer😎</h4><br>
 
-<a href="https://github.com/rlawoals2590"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlawoals2590&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ni20586370)](https://solved.ac/ni20586370)
-<br/><br/>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rlawoals2590&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rlawoals2590&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<a href="https://github.com/rlawoals2590"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlawoals2590&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ni20586370)](https://solved.ac/ni20586370)
+<br/><br/>
 
 
 ## Tech Stack 📚
@@ -30,37 +30,23 @@
 
 ### Infra :house_with_garden:
 <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=dynamodb" height="30" alt="amazondynamodb logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=prometheus" height="30" alt="prometheus logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
 <br/>
 
 ### Tools used :hammer:
 <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=vim" height="30" alt="vim logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipseide logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=atom" height="30" alt="atom logo"  />
 <br/><br/>
 
