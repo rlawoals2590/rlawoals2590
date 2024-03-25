@@ -3,17 +3,16 @@
 <div align=left>
 
 ## Introduction :raised_hands:
-<h4>Hi, I am trying to become a DevOps Engineer😎</h4><br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rlawoals2590&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rlawoals2590&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h4>Hi, I am trying to become a DevOps Engineer😎</h4><br> 
 
 <a href="https://github.com/rlawoals2590"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlawoals2590&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ni20586370)](https://solved.ac/ni20586370)
 <br/><br/>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rlawoals2590&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rlawoals2590&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ## Tech Stack 📚
 ### Programming Language :computer:
