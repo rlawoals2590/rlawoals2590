@@ -55,7 +55,7 @@
 <a href="tuiab25906370@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </a>
-<a href="linkedin.com/in/재민-김-5ab32b257" target="_blank">
+<a href="https://www.linkedin.com/in/%EC%9E%AC%EB%AF%BC-%EA%B9%80-5ab32b257" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
 <br/><br/>
