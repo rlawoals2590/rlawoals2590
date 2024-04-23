@@ -30,7 +30,6 @@
 ### Infra :house_with_garden:
 <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
 <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-<img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 <img src="https://skillicons.dev/icons?i=dynamodb" height="30" alt="amazondynamodb logo"  />
 <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana logo"  />
 <img src="https://skillicons.dev/icons?i=prometheus" height="30" alt="prometheus logo"  />
